@@ -16,7 +16,7 @@ object CSVOperation {
       .option("header", "true")
       .load("F:\\csv\\")
 
-
+    //asfsfas
     frame.createOrReplaceTempView("job_detail")
     frame.show
 
